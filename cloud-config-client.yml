@@ -21,4 +21,4 @@ spring:
 
 ---
 info: prod
-  profile: prod
+  profiles: prod
