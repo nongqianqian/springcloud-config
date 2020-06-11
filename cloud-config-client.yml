@@ -13,7 +13,7 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
 
 ---
-info: dev-modify version 1
+info: dev-modify version 2
 spring: 
   profiles: dev
 
